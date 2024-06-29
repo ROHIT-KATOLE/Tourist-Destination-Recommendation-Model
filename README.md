@@ -28,8 +28,8 @@ This project aims to recommend tourist destinations based on user input of locat
 ## Setup Instructions
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/ROHIT-KATOLE/Tourist-Destination-Recommendation-Model.git
+cd Tourist-Destination-Recommendation-Model
 ```
 
 2. Set up virtual environment (optional but recommended):
