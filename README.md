@@ -9,7 +9,6 @@ This project aims to recommend tourist destinations based on user input of locat
 - [API Endpoint](#api-endpoint)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [License](#license)
 
 
 ## Features
